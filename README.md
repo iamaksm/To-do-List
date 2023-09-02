@@ -1,6 +1,4 @@
-CODSOFT TASK - 1 
-
-To-do-List
+# CODSOFT TASK - 1 To-do-List
 
 
 
